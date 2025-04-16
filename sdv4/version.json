@@ -2,13 +2,13 @@
   "1.4.1": {
     "cardRev": "2",
     "hairetuRev": "3",
-    "cardListUrl": "cardlist0.json",
-    "hairetuDataUrl": "hairetudata0.json"
+    "cardListJson": "cardlist0.json",
+    "hairetuDataJson": "hairetudata0.json"
   },
   "1.4.2": {
     "cardRev": "3",
     "hairetuRev": "4",
-    "cardListUrl": "cardlist0.json",
-    "hairetuDataUrl": "hairetudata0.json"
+    "cardListJson": "cardlist0.json",
+    "hairetuDataJson": "hairetudata0.json"
   }
 }
