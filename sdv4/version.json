@@ -4,5 +4,11 @@
     "hairetuRev": "3",
     "cardListUrl": "cardlist0.json",
     "hairetuDataUrl": "hairetudata0.json"
+  },
+  "1.4.2": {
+    "cardRev": "2",
+    "hairetuRev": "3",
+    "cardListUrl": "cardlist0.json",
+    "hairetuDataUrl": "hairetudata0.json"
   }
 }
