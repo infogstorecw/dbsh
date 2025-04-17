@@ -1,10 +1,10 @@
 {
   "1.4.0": {
     "noDest": "0",
-    "msg": "１２パターンです",
-    "cardRev": "",
-    "hairetuRev": "",
-    "cardListJson": "",
-    "hairetuDataJson": ""
+    "msg": "全２4パターン",
+    "cardRev": "1",
+    "hairetuRev": "1",
+    "cardListJson": "cardlist0.json",
+    "hairetuDataJson": "hairetudata0.json"
   }
 }
