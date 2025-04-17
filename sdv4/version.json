@@ -1,7 +1,7 @@
 {
   "1.4.0": {
     "noDest": "0",
-    "msg": "全２4パターン",
+    "msg": "24パターンの配列表をダウンロードしました",
     "cardRev": "1",
     "hairetuRev": "1",
     "cardListJson": "cardlist0.json",
