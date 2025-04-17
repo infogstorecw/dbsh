@@ -1,5 +1,7 @@
 {
   "1.4.0": {
+    "noDest": "1",
+    "msg": "現在配信されていません、しばらくお待ちください。",
     "cardRev": "1",
     "hairetuRev": "1",
     "cardListJson": "cardlist0.json",
