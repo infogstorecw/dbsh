@@ -1,7 +1,8 @@
 {
   "1.4.0": {
     "noDest": "0",
-    "msg": "配列表をダウンロードしました(24パターン)",
+    "msg": "配列表はまだ配信されていません。",
+    "msgUntilNxtDL": "現在、第３弾の配列を表示しています。",
     "cardRev": "1",
     "hairetuRev": "1",
     "cardListJson": "cardlist0.json",
