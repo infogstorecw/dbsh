@@ -13,7 +13,16 @@
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
-    "hairetuRev": "1",
+    "hairetuRev": "2",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata1.json"
+  },
+  "1.4.2": {
+    "noDest": "0",
+    "noDestMsg": "",
+    "compMsg": "",
+    "cardRev": "1",
+    "hairetuRev": "2",
     "cardListJson": "cardlist1.json",
     "hairetuDataJson": "hairetudata1.json"
   }
