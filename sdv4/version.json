@@ -13,26 +13,26 @@
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
-    "hairetuRev": "5",
+    "hairetuRev": "6",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata5.json"
+    "hairetuDataJson": "hairetudata6.json"
   },
   "1.4.2": {
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
-    "hairetuRev": "5",
+    "hairetuRev": "6",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata5.json"
+    "hairetuDataJson": "hairetudata6.json"
   },
   "1.4.3": {
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
-    "hairetuRev": "5",
+    "hairetuRev": "6",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata5.json"
+    "hairetuDataJson": "hairetudata6.json"
   }
 }
