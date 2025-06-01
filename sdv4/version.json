@@ -43,5 +43,14 @@
     "hairetuRev": "8",
     "cardListJson": "cardlist1.json",
     "hairetuDataJson": "hairetudata8.json"
+  },
+  "1.4.5": {
+    "noDest": "0",
+    "noDestMsg": "",
+    "compMsg": "",
+    "cardRev": "2",
+    "hairetuRev": "8",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata8.json"
   }
 }
