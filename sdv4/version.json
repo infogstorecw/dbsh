@@ -21,18 +21,27 @@
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "1",
-    "hairetuRev": "7",
+    "cardRev": "2",
+    "hairetuRev": "8",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata7.json"
+    "hairetuDataJson": "hairetudata8.json"
   },
   "1.4.3": {
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "1",
-    "hairetuRev": "7",
+    "cardRev": "2",
+    "hairetuRev": "8",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata7.json"
+    "hairetuDataJson": "hairetudata8.json"
+  },
+  "1.4.4": {
+    "noDest": "0",
+    "noDestMsg": "",
+    "compMsg": "",
+    "cardRev": "2",
+    "hairetuRev": "8",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata8.json"
   }
 }
