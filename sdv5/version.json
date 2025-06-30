@@ -1,0 +1,11 @@
+{
+  "1.5.0": {
+    "noDest": "0",
+    "noDestMsg": "",
+    "compMsg": "",
+    "cardRev": "0",
+    "hairetuRev": "0",
+    "cardListJson": "cardlist0.json",
+    "hairetuDataJson": "hairetudata0.json"
+  }
+}
