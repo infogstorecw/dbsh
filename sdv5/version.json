@@ -7,5 +7,14 @@
     "hairetuRev": "0",
     "cardListJson": "cardlist0.json",
     "hairetuDataJson": "hairetudata0.json"
+  },
+  "1.5.1": {
+    "noDest": "1",
+    "noDestMsg": "配列表が配信されるまでお待ちください",
+    "compMsg": "",
+    "cardRev": "1",
+    "hairetuRev": "1",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata1.json"
   }
 }
