@@ -9,8 +9,8 @@
     "hairetuDataJson": "hairetudata0.json"
   },
   "1.5.1": {
-    "noDest": "1",
-    "noDestMsg": "配列表が配信されるまでお待ちください",
+    "noDest": "0",
+    "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
     "hairetuRev": "1",
