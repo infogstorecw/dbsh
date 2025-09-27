@@ -13,8 +13,8 @@
     "noDestMsg": "第６弾配列表の配信までしばらくお待ちください。",
     "compMsg": "",
     "cardRev": "1",
-    "hairetuRev": "1",
+    "hairetuRev": "2",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata1.json"
+    "hairetuDataJson": "hairetudata2.json"
   }
 }
