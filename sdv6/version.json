@@ -10,7 +10,16 @@
   },
   "1.6.1": {
     "noDest": "0",
-    "noDestMsg": "第６弾配列表の配信までしばらくお待ちください。",
+    "noDestMsg": "",
+    "compMsg": "",
+    "cardRev": "1",
+    "hairetuRev": "2",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata2.json"
+  },
+  "1.6.2": {
+    "noDest": "0",
+    "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
     "hairetuRev": "2",
