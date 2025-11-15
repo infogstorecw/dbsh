@@ -3,18 +3,18 @@
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "0",
-    "hairetuRev": "0",
-    "cardListJson": "cardlist0.json",
-    "hairetuDataJson": "hairetudata0.json"
+    "cardRev": "1",
+    "hairetuRev": "1",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata1.json"
   },
   "1.7.1": {
     "noDest": "1",
     "noDestMsg": "配列表が配信されるまでお待ちください",
     "compMsg": "",
-    "cardRev": "1",
-    "hairetuRev": "1",
-    "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata1.json"
+    "cardRev": "0",
+    "hairetuRev": "0",
+    "cardListJson": "cardlist.json",
+    "hairetuDataJson": "hairetudata.json"
   }
 }
