@@ -3,10 +3,10 @@
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "1",
-    "hairetuRev": "1",
-    "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata1.json"
+    "cardRev": "2",
+    "hairetuRev": "2",
+    "cardListJson": "cardlist_test1.json",
+    "hairetuDataJson": "hairetudata_test1.json"
   },
   "1.7.1": {
     "noDest": "1",
