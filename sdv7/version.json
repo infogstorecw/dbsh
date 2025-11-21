@@ -4,9 +4,9 @@
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "2",
-    "hairetuRev": "2",
+    "hairetuRev": "3",
     "cardListJson": "cardlist_test1.json",
-    "hairetuDataJson": "hairetudata_test1.json"
+    "hairetuDataJson": "hairetudata_test2.json"
   },
   "1.7.1": {
     "noDest": "1",
