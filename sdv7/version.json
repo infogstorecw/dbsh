@@ -17,4 +17,14 @@
     "cardListJson": "cardlist1.json",
     "hairetuDataJson": "hairetudata2.json"
   }
+  ,
+  "1.7.2": {
+    "noDest": "0",
+    "noDestMsg": "",
+    "compMsg": "",
+    "cardRev": "3",
+    "hairetuRev": "5",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata2.json"
+  }
 }
