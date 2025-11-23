@@ -12,10 +12,10 @@
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "3",
-    "hairetuRev": "5",
+    "cardRev": "4",
+    "hairetuRev": "7",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata2.json"
+    "hairetuDataJson": "hairetudata3.json"
   }
   ,
   "1.7.2": {
@@ -23,8 +23,8 @@
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "4",
-    "hairetuRev": "6",
+    "hairetuRev": "7",
     "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata2.json"
+    "hairetuDataJson": "hairetudata3.json"
   }
 }
