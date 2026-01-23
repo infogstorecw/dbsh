@@ -9,12 +9,12 @@
     "hairetuDataJson": "hairetudata1.json"
   },
   "1.8.1": {
-    "noDest": "1",
-    "noDestMsg": "配列表配信までお待ちください",
+    "noDest": "0",
+    "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "1",
-    "hairetuRev": "1",
-    "cardListJson": "cardlist1.json",
-    "hairetuDataJson": "hairetudata1.json"
+    "cardRev": "2",
+    "hairetuRev": "2",
+    "cardListJson": "cardlist2.json",
+    "hairetuDataJson": "hairetudata2.json"
   }
 }
