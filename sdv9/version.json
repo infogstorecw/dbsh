@@ -9,7 +9,7 @@
     "hairetuDataJson": "hairetudata0.json"
   },
   "1.9.1": {
-    "noDest": "1",
+    "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
     "cardRev": "1",
