@@ -3,8 +3,8 @@
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "0",
-    "hairetuRev": "0",
+    "cardRev": "1",
+    "hairetuRev": "1",
     "cardListJson": "cardlist0.json",
     "hairetuDataJson": "hairetudata0.json"
   },
