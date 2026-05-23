@@ -9,12 +9,12 @@
     "hairetuDataJson": "hairetudata0.json"
   },
   "1.10.1": {
-    "noDest": "1",
+    "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "1",
-    "hairetuRev": "1",
-    "cardListJson": "cardlist0.json",
-    "hairetuDataJson": "hairetudata0.json"
+    "cardRev": "2",
+    "hairetuRev": "2",
+    "cardListJson": "cardlist1.json",
+    "hairetuDataJson": "hairetudata1.json"
   }
 }
