@@ -12,9 +12,9 @@
     "noDest": "0",
     "noDestMsg": "",
     "compMsg": "",
-    "cardRev": "3",
-    "hairetuRev": "3",
-    "cardListJson": "cardlist2.json",
-    "hairetuDataJson": "hairetudata2.json"
+    "cardRev": "4",
+    "hairetuRev": "4",
+    "cardListJson": "cardlist3.json",
+    "hairetuDataJson": "hairetudata3.json"
   }
 }
