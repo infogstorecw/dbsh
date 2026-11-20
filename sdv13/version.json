@@ -10,7 +10,7 @@
   },
   "1.13.1": {
     "noDest": "1",
-    "noDestMsg": "",
+    "noDestMsg": "配列表配信までお待ちください",
     "compMsg": "",
     "cardRev": "1",
     "hairetuRev": "1",
